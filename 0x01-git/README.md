@@ -1,1 +1,1 @@
-My first programming language
+How to be up to date in git
